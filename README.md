@@ -23,7 +23,7 @@ A command-line interface (CLI) application for managing tasks. This project allo
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/task_tracker.git
+   git clone https://github.com/julieboysen/task_tracker.git
 2. Naviagte to project directory
     ```sh
      cd task_tracker
